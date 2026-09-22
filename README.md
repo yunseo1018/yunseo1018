@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yunseo1018&label=Profile%20views&color=0e75b6&style=flat" alt="yunseo1018" /> </p>
 
-- 🎓 Graduate student at Sogang University, Graduate School of Metaverse Convergence
+- 🎓 Master's student at Sogang University, Graduate School of Virtual Convergence
 - 🌱 Studying **Unity, Python**, and **AI agentic workflows (Claude Code)**
 - 📫 How to reach me **parkyunseo1018@gmail.com**
 - 📜 Certifications: **컴퓨터활용능력 1급**, **정보처리산업기사**, **GTQ 1급**
